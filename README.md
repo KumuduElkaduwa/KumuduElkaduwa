@@ -46,7 +46,7 @@ This is where creativity meets code — from designing intuitive interfaces to d
 I'm always open to collaborating on exciting projects, sharing knowledge, or just having a good tech conversation. Feel free to reach out — let’s connect and create!
 
 🔗 [LinkedIn](https://www.linkedin.com/in/kumudu-elkaduwa?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B0egyTr8wTrKfBiRiMVEb3g%3D%3D)  
-💻 [GitHub](https://github.com/KumuduElkaduwa))   
+💻 [GitHub](https://github.com/KumuduElkaduwa)  
 🌐 [Portfolio](https://portfolio-git-main-kumuduelkaduwas-projects.vercel.app)
 
 Thanks for stopping by — happy coding! 🚀💻
